@@ -1,0 +1,3 @@
+# Documentation for SEF
+This repository contains a collection (under construction) of descriptions and procedures for onboarding new board members in the Swedish Esperanto Federation (SEF).
+It is stored in git mostly as an exercise in git for version control and using markdown for authoring, not so much for being publicly available. However, maybe some of the information (in Swedish, n.b.) can be of use to someone active in a non-profit organization or association, so feel free to peek if you're interested...
