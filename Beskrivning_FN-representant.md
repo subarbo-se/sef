@@ -4,4 +4,4 @@ Detta dokument beskriver uppgifter för den som utses till representant/kontaktp
 Som FN-representant har du huvudsakligen tre uppgifter:
 * Stå som mottagare för nyhetsbrev (e-post) och tidningen Världshorisont från Svenska FN-förbundet
 * Stå som mottagare för nyhetsbrev från "Esperanto por UN"
-* Bevaka dessa nyhetskällor och rapportera till styrelsen när det är något som verkar värt att uppmärksamma eller delta i från SEF:s sida.
+* Bevaka (läsa eller åtminstone ögna igenom) dessa nyhetskällor och rapportera till styrelsen när det är något som verkar värt att uppmärksamma eller evenemang att delta i från SEF:s sida.
