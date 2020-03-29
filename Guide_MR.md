@@ -22,7 +22,7 @@ Användbart material/rekvisita:
 * Tydlig skylt med kärnmening, t.ex. "Esperanto - för jämlik kommunikation människor emellan!"
 * Bordsvepa med esperanto-pratbubblan eller liten bordsflagga
 * Broschyrer m.m.:
-  * Lösbladet med esperanto/svenska till *"Du kommer längre med språk"*-broschyren som alla elever får
+  * Lösbladet med esperanto/svenska till *"Du kommer längre med språk"*-broschyren
   * *"Säg något på esperanto"*-foldern
   * Bokmärken
   * Pennor (Obs! Kontrollera att de fungerar, är ordentligt ihopskruvade osv.)
