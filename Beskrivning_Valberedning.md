@@ -11,6 +11,7 @@ Arbetsuppgifter i korthet:
 Detta består huvudsakligen av två delar:
 
 * Att undersöka vilka i den sittande styrelsen (av de vars mandatperiod tar slut kommande årsmöte) som kan tänka sig att bli omvalda;
+* Att välja en samarbetsvillig grupp personer till styrelsen så att den kan fungera bra,
 * Att undersöka vilka medlemmar som kan tänka sig att sitta i styrelsen eller åta sig arbetsuppgifter utanför styrelsen, och -- givet att det finns flera kandidater -- diskutera vilka som skulle passa bäst för eventuella poster och uppgifter.
 
 ## Beskrivning
