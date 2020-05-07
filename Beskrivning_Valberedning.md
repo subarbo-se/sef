@@ -24,6 +24,10 @@ För att kunna fundera på tänkbara kandidater behöver valberedningen förstå
 
 *Genom att separera ut uppgifter och specifika områden, blir det också lite mindre betungande att sitta i styrelsen, vilket förhoppningsvis i sin tur kan leda till minskad motvilja att åta sig ett styrelseuppdrag.*
 
+## Viktigt att veta om personuppgifter
+
+Som valberedare kan du få tillgång till adresser och andra kontaktuppgifter till medlemmarna. Dessa kontaktuppgifter får absolut inte användas i några andra syften, inte kopieras eller sparas efter slutfört uppdrag. Att missbruka personuppgifter är ett brott mot dataskyddslagen.
+
 ## Poster i styrelsen
 
 Styrelsen består typiskt av följande poster:
