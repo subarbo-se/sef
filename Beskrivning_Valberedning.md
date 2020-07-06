@@ -36,22 +36,26 @@ Styrelsen består typiskt av följande poster:
 * **Vice ordförande.** Delar arbetsuppgifter och befogenheter med ordföranden och träder in när ordföranden har förhinder.
 * **Kassör**. Ansvarar för föreningens ekonomi; framför allt betalning av fakturor samt bokföring av dessa, och inför verksamhetsårets slut sammanställa årsredovisningen till årsmötet.
 * **Sekreterare**. Sekreteraren skriver mötesprotokoll och kan även sköta styrelsens yttre och inre korrespondens. Kan också vara ansvarig för medlemsregistret.
-* En (eller flera) **ledamöter**. En styrelseledamot deltar i styrelsearbetet och kan t.ex. ansvara för en arbetsgrupp eller andra specifika arbetsuppgifter eller ansvarsområden som bestäms inom styrelsen.
+* En (eller flera)* **ledamöter**. En styrelseledamot deltar i styrelsearbetet och kan t.ex. ansvara för en arbetsgrupp eller andra specifika arbetsuppgifter eller ansvarsområden som bestäms inom styrelsen.
 * En (eller flera) **suppleanter**. En suppleant eller ersättare deltar i styrelsearbetet på samma sätt som en styrelseledamot och kan ha specifika arbetsuppgifter eller ansvarsområden. Suppleanter deltar i styrelsemöten, i synnerhet om någon annan ledamot har förhinder, så att mötet blir *beslutsmässigt*.
 
-I SEF bestäms styrelsens storlek i samband med årsmötet.
+\* _I SEF bestäms styrelsens storlek i samband med årsmötet._
 
 ## Fokusområden och arbetsgrupper
 
 Styrelsens arbete är sedan x år tillbaka uppdelat i ett antal *fokusområden*. Dessa är:
 
 * Förvaltning,
-* Information,
-* Mötesplatser,
-* Stöd (tidigare Stärka medlemmar),
+* Information*,
+* Mötesplatser*,
+* Stärka medlemmar*,
 * Arkiv.
 
-**Förvaltning** omfattar vad man kan kalla det traditionella styrelsearbetet; administration och ekonomi. **Information** handlar om att ta fram och formge informationsmaterial som broschyrer och annonser, och utåtriktat informationsarbete som att delta på mässor och temadagar. **Mötesplatser** är olika typer av träffar, kongresser och andra evenemang vi anordnar tillsammans. **Stöd**, tidigare *Stärka medlemmar*, handlar om hur SEF centralt kan hjälpa klubbar och individuella medlemmar utveckla sin verksamhet och sig själva, till exempel i form av projektbidrag eller utbyte av erfarenheter. **Arkiv** handlar om att inventera, gå igenom, sortera, skanna och gallra bland historiskt material och böcker vi har, så att det kan arkiveras för framtiden i lämpliga landsarkiv, föreningsarkiv, Riksarkivet, och inte minst våra egna lokaler -- så länge vi har några.
+
+
+\* _sedan 2020 är områdena information, mötesplatser och stärka medlemmar sammanslagna till **Verksamhet**._
+
+**Förvaltning** omfattar vad man kan kalla det traditionella styrelsearbetet; administration och ekonomi. \***Information** handlar om att ta fram och formge informationsmaterial som broschyrer och annonser, och utåtriktat informationsarbete som att delta på mässor och temadagar. \***Mötesplatser** är olika typer av träffar, kongresser och andra evenemang vi anordnar tillsammans. \***Stärka medlemmar** handlar om hur SEF centralt kan hjälpa klubbar och individuella medlemmar utveckla sin verksamhet och sig själva, till exempel i form av projektbidrag eller utbyte av erfarenheter. **Arkiv** handlar om att inventera, gå igenom, sortera, skanna och gallra bland historiskt material och böcker vi har, så att det kan arkiveras för framtiden i lämpliga landsarkiv, föreningsarkiv, Riksarkivet, och inte minst våra egna lokaler -- så länge vi har några.
 
 En styrelsemedlem ansvarar för respektive fokusområde, och leder arbetet i en tillhörande **arbetsgrupp**. Arbetsgruppen i sin tur kan bestå av medlemmar utanför styrelsen. 
 
@@ -67,3 +71,5 @@ En styrelsemedlem ansvarar för respektive fokusområde, och leder arbetet i en 
 * **FN-förbundet**. Vi är som organisation anslutna till Svenska FN-förbundet. Emellanåt hålls seminarier, oftast i Stockholm, men ibland också i andra delar av landet. Några gånger per år kommer tidningen *Världshorisont* som kan innehålla saker vi kan vilja kommentera eller sprida vidare. Vi får också nyhetsbrev per e-post från UEA:s arbetsgrupp *Esperanto por UN*.
 * **EEU**. Vi är anslutna till nätverket *Europa Esperanto-Unio*. De skickar ibland ut nyhetsbrev och har något slags årsmöte eller kongress varje år, dit vi har möjlighet att skicka en representant. Eventuella rese- och boendekostnader bekostas så klart av SEF.
 * **Sociala medier**. Vår närvaro i sociala medier är förhållandevis svag. Vi har konton på Instagram och Twitter, men oftast uppdateras våra flöden bara i samband med kongresser eller träffar. En eller gärna flera personer som är intresserade och villiga att mediebevaka kan bidra med relevant innehåll här. 
+* **Kalendaro**. Att ha en huvudansvarig för kalendern på hemsidan, en administratör som kan påminna klubbar om att lägga in sina evenemang, assistera vid behov eller helt enkelt kräva in information med jämna mellanrum. Även att lägga in evenemang i internationella (esperanto-)evenemangskalendrar när det är lämpligt, och kanske även skicka in till "vanliga" evenemangskalendrar.
+* **Ungdomsrepresentant** Eftersom SEJU är vilande, har styrelsen (åtminstone informellt) en ungdomsrepresentant adjungerad som vid behov kan delta i styrelsemöten.
